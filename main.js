@@ -1,5 +1,5 @@
 function revealRules() {
-	if (document.getElementById("ruleTxt").innerHTML === "" {
+	if (document.getElementById("ruleTxt").innerHTML === "") {
 		document.getElementById("ruleTxt").innerHTML = "Mucho Texto";
 		console.log(document.getElementById("ruleTxt").innerHTML);
 	} else {
