@@ -2,3 +2,8 @@
 h1 {
 	color: purple;
 }
+.header {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
