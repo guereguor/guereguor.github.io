@@ -1,3 +1,7 @@
 function revealRules() {
-	document.getElementById("ruleTxt").innerHTML = "Mucho Texto";
+	if (document.getElementById("ruleTxt").innerHTML === "" {
+		document.getElementById("ruleTxt").innerHTML = "Mucho Texto";
+	} else {
+		document.getElementById("ruleTxt").innerHTML = "";
+	}
 }
