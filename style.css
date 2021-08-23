@@ -1,11 +1,9 @@
 /* style.css */
 h1 {
 	color: purple;
+	text-align: center;
 }
 .header {
 	padding: 10px;
 	background-color: rgb(215, 195, 215);
-}
-h1 {
-	text-align: center;
 }
